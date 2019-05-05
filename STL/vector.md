@@ -1,7 +1,7 @@
 ## 比较实用的函数
 **find**
-返回的迭代器不等于v.end()，v.end()并不是vector中的最后一个元素，而是下一个；find范围[begin,last)
-
+v.end()并不是vector中的最后一个元素，而是下一个；find范围[begin,last)
+## CODE ##
 #include <iostream>
 #"其他文件夹"
 using namespace std;
