@@ -1,34 +1,6 @@
 ## 比较实用的函数
 #include <iostream>
-#include <fstream> 
-#include <sstream> // istringstream 必须包含这个头文件
-
-#include <algorithm>
-#include <vector>
-#include <string>
-#include <set>
-#include <unordered_set>
-#include <map>
-#include <unordered_map>
-#include <queue>
-#include <deque>
-#include <stack>
-#include <bitset>
-
-#include <utility> // pair
-#include <functional> //greater<>
-
-#include <mutex>
-
-#include <cmath>
-#include <ctime>
-#include <assert.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <random>
-#include <exception>
-
-
+#"其他文件夹"
 using namespace std;
 
 int main(){
