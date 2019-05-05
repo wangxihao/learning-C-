@@ -1,5 +1,5 @@
 ## 比较实用的函数
-**find**
+**find() **
 v.end()并不是vector中的最后一个元素，而是下一个；find范围[begin,last)
 ## Code ##
 #include <iostream>
